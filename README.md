@@ -1,4 +1,1 @@
-# Rosalie
-## Hi there!
 
- 😘
